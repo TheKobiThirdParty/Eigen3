@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>Eigen3</name>
+  <version>3.3.7</version>
+  <description>Eigen 3</description>
+
+  <maintainer email="denis@thekobi.com">Denis Cavalli</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
